@@ -30,12 +30,11 @@ The dashboard provides insights into **revenue trends, top customers, product de
 
 ## 📂 Project Files
 - `Online Retail Insights Dashboard.twbx` – Tableau packaged workbook  
-
 ---
 
 ## 📌 Author
-👤 **Jeetu Raut**  
-- 💼 Data Analyst Intern @ InfoOrigin  
-- 🔗 [LinkedIn]
+👤 **Jeetu Raut**   
+- 💼 Ex. Data Analyst/Engineering Intern @ InfoOrigin  
+- 🔗 [LinkedIn] : https://linkedin.com/in/JeetRaut26
 
 ---
