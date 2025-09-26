@@ -35,6 +35,6 @@ The dashboard provides insights into **revenue trends, top customers, product de
 ## 📌 Author
 👤 **Jeetu Raut**   
 - 💼 Ex. Data Analyst/Engineering Intern @ InfoOrigin  
-- 🔗 [LinkedIn] : https://linkedin.com/in/JeetRaut26
+- 🔗 LinkedIn: https://linkedin.com/in/JeetRaut26
 
 ---
