@@ -6,7 +6,7 @@ The dashboard provides insights into **revenue trends, top customers, product de
  
 ---
 
-## 🎯 Key Features  
+## 🎯 Key Features
 - 📊 **Monthly Revenue Trend** – Tracks sales, revenue, and unit price fluctuations over time.  
 - 🌍 **Top 10 Countries by Revenue & Quantity** – Identifies international markets driving business growth.  
 - 👥 **Top 10 Customers by Revenue** – Highlights high-value customers for targeted strategies.  
