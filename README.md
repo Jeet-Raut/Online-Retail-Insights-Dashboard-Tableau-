@@ -10,7 +10,7 @@ The dashboard provides insights into **revenue trends, top customers, product de
 - 📊 **Monthly Revenue Trend** – Tracks sales, revenue, and unit price fluctuations over time. 
 - 🌍 **Top 10 Countries by Revenue & Quantity** – Identifies international markets driving business growth.  
 - 👥 **Top 10 Customers by Revenue** – Highlights high-value customers for targeted strategies.  
-- 🛒 **Product Demand by Region** – Reveals regional product demand and customer preferences.  
+- 🛒 **Product Demand by Region** – Reveals regional product demand and customer preferences. 
 
 ---
 
