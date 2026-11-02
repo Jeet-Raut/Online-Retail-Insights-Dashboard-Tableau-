@@ -4,7 +4,7 @@
 This project showcases a **Tableau dashboard** built on an **online retail dataset (Deloitte Australia)**.  
 The dashboard provides insights into **revenue trends, top customers, product demand by region, and country-level performance**, helping businesses make data-driven decisions.  
 
----
+---  
 
 ## 🎯 Key Features
 - 📊 **Monthly Revenue Trend** – Tracks sales, revenue, and unit price fluctuations over time. 
